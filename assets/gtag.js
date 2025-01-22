@@ -1,1 +1,0 @@
-function a(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],a("js",new Date),a("config","G-EBE72MVZ1B");

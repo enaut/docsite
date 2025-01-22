@@ -1,1 +1,0 @@
-try{var e=window.matchMedia("(prefers-color-scheme: dark)");function t(e){e.matches?document.documentElement.classList.add("dark"):document.documentElement.classList.remove("dark")}t(e),e.addEventListener("change",t)}catch(e){}

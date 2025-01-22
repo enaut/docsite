@@ -1,1 +1,1 @@
-function a(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],a("js",new Date),a("config","G-EBE72MVZ1B");
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date);gtag("config","G-EBE72MVZ1B");
